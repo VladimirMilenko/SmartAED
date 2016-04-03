@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Этот файл используется в процессе публикации или упаковки вашего веб-проекта. Вы можете настроить поведение процесса,
+изменив этот файл MSBuild. Дополнительные сведения см. по адресу http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\AsTex\Documents</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AED.ashx">
+      <publishTime>04/03/2016 13:01:23</publishTime>
+    </File>
+    <File Include="ApplicationInsights.config">
+      <publishTime>04/03/2016 13:00:38</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>04/03/2016 13:00:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>04/03/2016 13:00:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>04/03/2016 13:00:35</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>04/03/2016 13:00:35</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>04/03/2016 13:00:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>04/03/2016 13:00:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>04/03/2016 13:00:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>04/03/2016 13:00:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Diagnostics.Tracing.EventSource.dll">
+      <publishTime>04/03/2016 13:00:33</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Threading.Tasks.dll">
+      <publishTime>04/03/2016 13:00:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Threading.Tasks.Extensions.Desktop.dll">
+      <publishTime>04/03/2016 13:00:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Threading.Tasks.Extensions.dll">
+      <publishTime>04/03/2016 13:00:32</publishTime>
+    </File>
+    <File Include="bin/System.IO.dll">
+      <publishTime>04/03/2016 13:00:29</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.dll">
+      <publishTime>04/03/2016 13:00:29</publishTime>
+    </File>
+    <File Include="bin/System.Threading.Tasks.dll">
+      <publishTime>04/03/2016 13:00:30</publishTime>
+    </File>
+    <File Include="bin/WebApplication1.dll">
+      <publishTime>04/03/2016 13:09:04</publishTime>
+    </File>
+    <File Include="EnableAED.ashx">
+      <publishTime>04/03/2016 13:02:41</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/03/2016 13:00:38</publishTime>
+    </File>
+    <File Include="scripts/ai.0.15.0-build58334.js">
+      <publishTime>04/03/2016 13:00:38</publishTime>
+    </File>
+    <File Include="scripts/ai.0.15.0-build58334.min.js">
+      <publishTime>04/03/2016 13:00:38</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/03/2016 13:09:05</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
